@@ -1,0 +1,25 @@
+{
+  "name": "Treino Pro · Halteres",
+  "short_name": "Treino Pro",
+  "description": "Ficha de treino masculina 5 dias - Hipertrofia e Força com Halteres",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1120",
+  "theme_color": "#0b1120",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
